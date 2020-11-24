@@ -1,0 +1,11 @@
+# Font style metadata
+name = "my_font"
+
+# Optional Google font URL
+google_fonts = "Nerko One:400,700|Cairo:400,700"
+
+# Font families
+heading_font = "Cairo"
+body_font = "B600 Cairo"
+nav_font = "B600 Cairo"
+mono_font = "Cairo" 
